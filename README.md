@@ -73,8 +73,8 @@ This repository accompanies **IRKED: Intent Recognition and Knowledge-Enhanced D
 
 - **`LLM-Sentry/`, `SelfDefend/`**
   - Baseline methods (code/data); 
-  - [LLM-Sentry](https://drive.google.com/file/d/1xWG9Wuus9hA3pvgniC0qT3GG9aBpPpzp/view?usp=sharing)
-  - [SelfDefend](https://drive.google.com/file/d/144y1MyG-BfxJhZTq9e74IpRUn4Qi5lvs/view?usp=sharing)
+  - [LLM-Sentry](https://drive.google.com/drive/folders/10sM1kuWdImuqwkKhh5ZNrkGEat2pycu3?usp=sharing)
+  - [SelfDefend](https://drive.google.com/drive/folders/10sM1kuWdImuqwkKhh5ZNrkGEat2pycu3?usp=sharing)
 
 ---
 
@@ -84,12 +84,12 @@ Click the links below to download.
 
 ### 3.1 Training data (`data.zip`)
 
-[data.zip](https://drive.google.com/file/d/1sBTQP0KHIpRIvVxa_6L3vVie_zpmGVQj/view?usp=sharing) includes:
+[data.zip](https://drive.google.com/drive/folders/10sM1kuWdImuqwkKhh5ZNrkGEat2pycu3?usp=sharing) includes:
 - Training data: `data/raw_dataset_big.csv`, `data/processed_dataset_big.csv`
 - Raw data: `data/raw`
 
-[defense_models](https://drive.google.com/file/d/1-0kO4CqZa11d5R1lqqeoqok_WTytbHGY/view?usp=sharing)
+[defense_models](https://drive.google.com/drive/folders/10sM1kuWdImuqwkKhh5ZNrkGEat2pycu3?usp=sharing)
 
-[hf_models](https://drive.google.com/file/d/11W-CE0GeWpr9i1vtw7BmA4Qa7FnMKwQ0/view?usp=sharing) includes:
+[hf_models](https://drive.google.com/drive/folders/10sM1kuWdImuqwkKhh5ZNrkGEat2pycu3?usp=sharing) includes:
 - bert-base-chinese
 - paraphrase-multilingual-MiniLM-L12-v2
